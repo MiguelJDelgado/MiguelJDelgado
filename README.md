@@ -138,6 +138,7 @@ Segue abaixo as redes nas quais sou mais ativo, para que possamos nos conectar! 
 
 Durante minha formação no Bootcamp **FullStack Developer** da Digital Innovation One (DIO), participei de diversos desafios práticos, testes e projetos propostos. Abaixo estão os repositórios originados desses exercícios, muitos deles realizados como *forks* da base fornecida pela plataforma:
 
+- [API Node.js/MongoAtlas](https://github.com/MiguelJDelgado/APImongoaltas.git)
 - [Desafio Wiki Repositórios](https://github.com/MiguelJDelgado/Desafio-Wiki-Repositorios)
 - [Desafio Testes Unitários](https://github.com/MiguelJDelgado/Desafio-TestesUnitarios)
 - [Desafio TDD](https://github.com/MiguelJDelgado/Desafio-TDD)
