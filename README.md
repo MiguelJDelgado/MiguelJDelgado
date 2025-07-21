@@ -134,7 +134,7 @@ Segue abaixo as redes nas quais sou mais ativo, para que possamos nos conectar! 
 
 ---
 
-## 📂 Repositórios do Bootcamp FullStack Developer (DIO)
+## 📂 Repositórios do Bootcamp FullStack Developer (DIO) e outros cursos
 
 Durante minha formação no Bootcamp **FullStack Developer** da Digital Innovation One (DIO), participei de diversos desafios práticos, testes e projetos propostos. Abaixo estão os repositórios originados desses exercícios, muitos deles realizados como *forks* da base fornecida pela plataforma:
 
