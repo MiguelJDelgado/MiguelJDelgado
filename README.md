@@ -99,6 +99,13 @@ Segue abaixo as redes nas quais sou mais ativo, para que possamos nos conectar! 
 
 # 🚀 Projetos Pessoais
 
+#### [🚗 DoOS](https://github.com/MiguelJDelgado/DoOS-Frontend)
+> Plataforma web de gerenciamento de ordens de serviço em uma oficina mecânica. Projeto utilizado como meu TCC feito em grupo na Fatec Sorocaba. Avaliado com nota 10 pela banca.
+
+[![Ver Projeto](https://img.shields.io/badge/%F0%9F%94%97%20Ver%20Projeto-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiguelJDelgado/DoOS-Frontend)
+
+---
+
 #### [📚 BiblioTech](https://github.com/MiguelJDelgado/BiblioTech)
 > Plataforma web de gerenciamento de biblioteca com cadastro de usuários, empréstimos e acervo. Desenvolvido com **Node.js** no back-end e **React** no front-end.
 
